@@ -1,0 +1,10 @@
+.s-footer{
+    margin-top: 100px;
+    padding-top: 32px;
+    padding-bottom: 16px;
+    background: var(--BG-Shade, #F5FCFF);
+    text-align: center;
+    &__text{
+        margin-top: 32px;
+    }
+}
